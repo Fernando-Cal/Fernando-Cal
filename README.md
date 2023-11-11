@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a Applied Mathematics major at the University of California, Berkeley. I thrive on solving complex problems, exploring the beauty of abstract concepts, and translating mathematical intricacies into practical applications. Let's connect! Whether you have questions about a specific project, want to discuss a mathematical concept, or just share your enthusiasm for the beauty of numbers, I'm just a message away. You can find me on LinkedIn.
 
-* 🌍  I'm based in Bay Area
+* 🌍  I'm based in the Bay Area
 * ✉️  You can contact me at [fernandomartinez@berkeley.edu](mailto:fernandomartinez@berkeley.edu)
 
 ### Skills
